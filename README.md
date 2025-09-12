@@ -1,9 +1,17 @@
 Ft_server (C) 
 
+
 ## Table of Contents
+* [Summary](#summary)
 * [Subject](#subject)
+* [Usage](#usage)
 * [Project Status](#project-status)
 * [Additional Notes](#additional-notes)
+
+
+## Summary
+
+Docker-based web server setup project demonstrating automated deployment and multi-service management. You were required to configure a Debian Buster container running Nginx, WordPress, phpMyAdmin, and MySQL with SSL support and URL-based service redirection. Includes optional autoindex configuration for enhanced server control.
 
 ## Subject
 
